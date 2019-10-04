@@ -1,0 +1,32 @@
+---
+title: "Research Proposal Milestone 3"
+author: "Carine Hajjar"
+date: "10/4/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Proposal
+After having dinner with Preceptor, I was told that I could go ahead with some data collection in Eliot to see how blocking groups were created-- how did people choose to block together. This would involved polling most/all senior blocking groups in Eliot. We also had the idea of polling sophomore blocking groups to see if there is a significant difference in the factors that determine blocking groups. Some factors are the following:
+- hometown/state/country of origin 
+- political views
+- clubs in freshman year
+- sports
+- freshman roommates 
+- pre-orientation programs 
+- single-gender organization
+- co-ed organization
+- etc...
+
+We could collect this data in a multitude of ways:
+- send a google form out over the Eliot email with a poll
+- sit in the Dhall and approach people there 
+- have the house administrators give us a list of blocking groups and try to contact one person in each
+
+Another idea would be to simply poll a random group of Eliot students to see how many people in Eliot they know outside of their blocking group/how they met them and to see how this network changes over years in the house. The point of this would be to see what makes house communities stronger. 
+
+Preceptor gave Johannes Lang and me the go-ahead on brainstorming this project and the data-collection methods. 
+ 
